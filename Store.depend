@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1701772315 source:e:\iti_intake_44\5-c\project\store\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Structs.c"
+
+1701639308 e:\iti_intake_44\5-c\project\store\structs.c
+	<stdio.h>
+	<stdlib.h>
+
+1701639308 source:e:\iti_intake_44\5-c\project\store\structs.c
+	<stdio.h>
+	<stdlib.h>
+
+1701777646 source:e:\iti_intake_44\5-c\project\store\addfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"Structs.c"
+
+1700852594 e:\iti_intake_44\5-c\project\store\addfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"Structs.c"
+
+1700856392 source:e:\iti_intake_44\5-c\project\store\systemfuntions.c
+	<windows.h>
+
+1700856392 e:\iti_intake_44\5-c\project\store\systemfuntions.c
+	<windows.h>
+
+1701726413 source:e:\iti_intake_44\5-c\project\store\displayfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"Structs.c"
+
+1701719041 source:e:\iti_intake_44\5-c\project\store\otherfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"Structs.c"
+
+1701441841 source:e:\iti_intake_44\5-c\project\store\deleteandmove.c
+	<stdio.h>
+	<stdlib.h>
+	"Structs.c"
+
+1701708537 source:e:\iti_intake_44\5-c\project\store\moveandupdatefunctions.c
+	"Structs.c"
+
+1701772142 source:e:\iti_intake_44\5-c\project\store\savedatainfile.c
+	"Structs.c"
+
